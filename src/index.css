@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .bace-container{
+        @apply max-w-[1400px] mx-auto
+    }
+    .cart{
+        @apply max-w-[565px] flex gap-8 items-center shadow-md rounded-xl
+    }
+    .color-red{
+        @apply bg-[#E4002B]
+    }
+    .color-pink{
+        @apply bg-[#FACCD5]
+    }
+    .border-red{
+        @apply border border-[#E4002B]
+    }
+    .hover-b{
+        @apply hover:bg-white hover:text-[#E4002B] transition-all
+    }
+    .button{
+        @apply font-bold text-white rounded-full
+    }
+}
+
+#link{
+    .img2{
+        display: none;
+    }
+    &:hover{
+        .img2{
+            display: block;
+        }
+        .img1{
+            display: none;
+        }
+    }
+}

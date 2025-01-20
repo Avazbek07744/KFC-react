@@ -1,0 +1,519 @@
+{
+    "beverages": [
+        {
+            "name": "MANGO-MARAKUYA LIMONAD 0,5",
+            "description": "Tetiklantirovchi mango-marakuyya limonaning chinakam tropik ta'mi chanqoqni qondirish va ta'mdan bahramand",
+            "price": 15000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5517.png"
+        },
+        {
+            "name": "QULUPNAY LIMONAD 0,5",
+            "description": "Chanqoqni qondirish va ta'mdan bahramand bo'lish uchun yaratilgan qulupnay ta'miga ega tetiklantirovchi ichimlik!",
+            "price": 15000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5516.png"
+        },
+        {
+            "name": "FUSE TEA 0,45L",
+            "description": "Fuse Tea 0,45l",
+            "price": 10000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4543.jpg"
+        },
+        {
+            "name": "FUSE TEA 0,45L",
+            "description": "Fuse Tea 0,45l",
+            "price": 10000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4544.jpg"
+        },
+        {
+            "name": "COCA-COLA 0,5L",
+            "description": "Coca-cola 0,5l",
+            "price": 9000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5328.jpg"
+        },
+        {
+            "name": "SPRITE 0,5L",
+            "description": "Sprite 0,5l",
+            "price": 9000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5329.jpg"
+        },
+        {
+            "name": "FANTA 0,5L",
+            "description": "Fanta 0,5l",
+            "price": 9000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5330.jpg"
+        },
+        {
+            "name": "SPRITE 0,5L",
+            "description": "Sprite 0,5l",
+            "price": 10000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4528.jpg"
+        },
+        {
+            "name": "FANTA 0,5L",
+            "description": "Fanta 0,5l",
+            "price": 10000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4529.jpg"
+        },
+        {
+            "name": "BONAQUA GAZLANMAGAN SUV 0,5L",
+            "description": "BonAqua gazlamangan ichimlik suvi 0,5l",
+            "price": 5000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4536.jpg"
+        },
+        {
+            "name": "SHARBAT 0,2L",
+            "description": "Olcha",
+            "price": 6000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4537.jpg"
+        },
+        {
+            "name": "SHARBAT 0,2L",
+            "description": "Shafto",
+            "price": 6000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4538.jpg"
+        },
+        {
+            "name": "SHARBAT 0,2L",
+            "description": "Olma",
+            "price": 6000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4539.jpg"
+        },
+        {
+            "name": "SHARBAT 0,2L",
+            "description": "Apelsin",
+            "price": 6000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4540.jpg"
+        },
+        {
+            "name": "COCA-COLA 0,5L",
+            "description": "Coca-cola 0,5l",
+            "price": 10000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4527.jpg"
+        }
+    ],
+    "coffee": [
+        {
+            "name": "PISHLOQLI TOST+QAHVA (TANLOVGA HAVOLA)",
+            "description": "KFCdan qaynoq yangilik!",
+            "price": 16000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5338.png"
+        },
+        {
+            "name": "KAPUCHINO 0,4L",
+            "description": "Kapuchino 0,4l",
+            "price": 17000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4552.jpg"
+        },
+        {
+            "name": "KAPUCHINO 0,3L",
+            "description": "Kapuchino 0,3l",
+            "price": 15000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4548.jpg"
+        },
+        {
+            "name": "KAPUCHINO 0,2L",
+            "description": "Kapuchino 0,2l",
+            "price": 12000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4555.jpg"
+        },
+        {
+            "name": "LATTE 0,4L",
+            "description": "Latte 0,4l",
+            "price": 17000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4554.jpg"
+        },
+        {
+            "name": "LATTE 0,3L",
+            "description": "Latte 0,3l",
+            "price": 15000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4549.jpg"
+        },
+        {
+            "name": "LATTE 0,2L",
+            "description": "Latte 0,2l",
+            "price": 12000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4550.jpg"
+        },
+        {
+            "name": "AMERIKANO 0,3L",
+            "description": "Amerikano 0,3l",
+            "price": 14000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4547.jpg"
+        },
+        {
+            "name": "AMERIKANO 0,2L",
+            "description": "Amerikano 0,2l",
+            "price": 11000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4547.jpg"
+        },
+        {
+            "name": "IKKI HISSA ESPRESSO 0,1L",
+            "description": "Ikki hissa Espresso 0,1l",
+            "price": 11000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4546.jpg"
+        },
+        {
+            "name": "KO'K CHOY 0,4L",
+            "description": "Ko'k choy 0,4l",
+            "price": 6000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4558.jpg"
+        },
+        {
+            "name": "KO'K CHOY 0,3L",
+            "description": "Qora choy 0,3l",
+            "price": 5000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4557.jpg"
+        },
+        {
+            "name": "QOR CHOY 0,4L",
+            "description": "Ko'k choy 0,4l",
+            "price": 6000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4560.jpg"
+        },
+        {
+            "name": "QORA CHOY 0,3L",
+            "description": "Qora choy 0,3l",
+            "price": 5000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4559.jpg"
+        }
+    ],
+    "burgers": [
+        {
+            "name": "BIG SANDERS BURGER ORIGINAL",
+            "description": "Original Big Sanders burger – nihoyatda katta va ishtahaochar! U ko‘p pishloq, barra sabzavotlar va sous, og‘izda eriydigan bulkacha va Polkovnik Sandersning maxfiy retsepti bo‘yicha 11 ta giyoh va ziravorlarning ideal uyg‘unligida sara tovuq go‘shtidan tayyorlangan yumshoqqina va xushbo‘y Stripslardan iborat.",
+            "price": 37000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5122.jpg"
+        },
+        {
+            "name": "BIG SANDERS BURGER ACHCHIQ",
+            "description": "Original Big Sanders burger – nihoyatda katta va ishtahaochar! U ko‘p pishloq, barra sabzavotlar va sous, og‘izda eriydigan bulkacha va Polkovnik Sandersning maxfiy retsepti bo‘yicha 11 ta giyoh va ziravorlarning ideal uyg‘unligida sara tovuq go‘shtidan tayyorlangan yumshoqqina va xushbo‘y Stripslardan iborat.",
+            "price": 37000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5124.jpg"
+        },
+        {
+            "name": "SANDERS BURGER ORIGINAL",
+            "description": "Premial KFC burgerining betakror ta'mini yaratish uchun har jihatdan puxta o'ylab tayyorlangan noyob retsept",
+            "price": 31000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5121.jpg"
+        },
+        {
+            "name": "SANDERS BURGER ACHCHIQ",
+            "description": "Premial KFC burgerining betakror ta'mini yaratish uchun har jihatdan puxta o'ylab tayyorlangan noyob retsept",
+            "price": 31000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5123.jpg"
+        },
+        {
+            "name": "SHEF TAUER ORIGINAL",
+            "description": "Sezar' sousi, original tolqinda file, xashbraun, pishloq bo'lagi, aysberg salati va pomidor, hammasi bug'doy",
+            "price": 28000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4472.jpg"
+        },
+        {
+            "name": "SHEF TAUER ACHCHIQ",
+            "description": "\"Burger\" sousi, Achchiq tolqinda sersuv file, xashbraun, pishloq bo'lagi, aysberg salati va marinadlangan ta'mli",
+            "price": 28000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4473.jpg"
+        },
+        {
+            "name": "SHEFBURGER ORIGINAL",
+            "description": "tovuq go'shti, pomidor, salat bargi, Sezar' sousi va bulochka",
+            "price": 23000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4474.jpg"
+        },
+        {
+            "name": "SHEFBURGER ACHCHIQ",
+            "description": "Hot&spicy panirovkasida achchiq tovuq go'shti, salat bargi, marinadlangan ta'mli bodring, piyoz",
+            "price": 23000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4475.jpg"
+        },
+        {
+            "name": "CHIZBURGER DE LYUKS",
+            "description": "Xantalli sous, ketchup, original panirovkada tovuq go'shti, piyoz, chedder pishlog'i, bodring va pomidor tilimchalari",
+            "price": 23000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4476.jpg"
+        },
+        {
+            "name": "CHIZBURGER",
+            "description": "Jo'xori talqoni sepilgan bulochka, original panirovkada sarxil strips, piyoz, Chedder pishlog'i, bodring, xantalli sous va ketchup",
+            "price": 19000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5339.jpg"
+        },
+        {
+            "name": "LONGER",
+            "description": "Sarxil tovuq go'shti, marinadlangan bodring va ishtahaochar sous",
+            "price": 15000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4450.jpg"
+        }
+    ],
+    "boxesAndBaskets": [
+        {
+            "name": "BASKET DUET ORIGINAL 77000 SO'M",
+            "description": "Дуэт оригинал баскети KFCнинг дунёга машҳур таомлари бизнинг Баскетда! Сиз учун ажойиб улфатларни – сархил товуқ гўштидан тайёрланган 4 та Стрипс, 4 та Қанотча, 4 та Байтс, Картошка фри ва Пепси",
+            "price": "Tanlov",
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5435.jpg"
+        },
+        {
+            "name": "BASKET DUET ACHCHIQ 77000 SO'M",
+            "description": "Аччиқ Дуэт баскети KFCнинг дунёга машҳур таомлари бизнинг Баскетда! Сиз учун ажойиб улфатларни – сархил товуқ гўштидан тайёрланган 4 та Стрипс, 4 та Қанотча, 4 та Байтс, Картошка фри ва Пепси",
+            "price": "Tanlov",
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5434.jpg"
+        },
+        {
+            "name": "BASKET ACHCHIQ 57000 SO'M",
+            "description": "Qarsildoq qanotchalar va mazali Stripslarning ajoyib uyg'unligi sinab ko'ring, u nafaqat ochlikni qondiradi, balki sizga va do'stlaringizga zavq bag'ishlaydi!",
+            "price": "Tanlov",
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5433.png"
+        },
+        {
+            "name": "SANDERS BASKET 40000 SO'M",
+            "description": "Mazali oyoqcha, 2 ta qarsildoq achchiq qanot, 2ta mojizaviy stripslar, 4 ta qarsildoq baytslar",
+            "price": "Tanlov",
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5432.jpg"
+        },
+        {
+            "name": "FRENDS BOKS ASSORTI 184000 SO'M",
+            "description": "Bir Boksda maksimal miqdorda mazali tovuacha: 5 ta mazali Oyoq, 10 ta achchiq Qanot, 5 ta nozik Strips, Bayts va bir Katta Fri",
+            "price": "Tanlov",
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5430.jpg"
+        },
+        {
+            "name": "PATI BASKETI 19000 SO'M",
+            "description": "Qirsillovchi ishtahaochar kartoshka, 6 ta bayts bo'lagi va pishloqli sous. Sizga yoqib qoladi",
+            "price": "Tanlov",
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5431.jpg"
+        },
+        {
+            "name": "Miks boks 20000 so'm",
+            "description": "Mazzali ishtaxaochar original naggetslar maxsus retsep bo'yicha tayyorlanngan va qarsildoq baytslarni sinab ko'ring",
+            "price": "Tanlov",
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5429.jpg"
+        },
+        {
+            "name": "BASKET L (26 ACHCHIQ QANOT)",
+            "description": "Achchiq panirovkadagi 26 ta tovuq qanotchalari",
+            "price": 130000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4485.jpg"
+        },
+        {
+            "name": "BASKET M (18 ACHCHIQ QANOT)",
+            "description": "Achchiq panirovkadagi 18 ta tovuq qanotchalari",
+            "price": 96000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4486.jpg"
+        },
+        {
+            "name": "BASKET S (12 ACHCHIQ QANOT)",
+            "description": "Achchiq panirovkadagi 12 ta tovuq qanotchalari",
+            "price": 67000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4487.jpg"
+        },
+        {
+            "name": "KATTA BAYTSLAR",
+            "description": "Sevimli baytslar endi yumshoq ta'mga ega! Sersuv tovuq bo'lakchalari qarsildoq panirovkada.",
+            "price": 33000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4502.jpg"
+        }
+    ],
+
+    "sauces": [
+        {
+            "name": "CHILI NORDON-SHIRIN SOUSI",
+            "description": "Chili nordon-shirin sousi",
+            "price": 4000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4525.jpg"
+        },
+        {
+            "name": "TOMATLI KETCHUP",
+            "description": "Tomatli ketchup",
+            "price": 4000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4522.jpg"
+        },
+        {
+            "name": "PISHLOQLI, ORIGINAL SOUS",
+            "description": "Pishloqli, original sous",
+            "price": 4000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4523.jpg"
+        },
+        {
+            "name": "SARIMSOQLI SOUS",
+            "description": "Sarimsoqli sous",
+            "price": 4000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4524.jpg"
+        }
+    ],
+    "chickenItems": [
+        {
+            "name": "8 TA ACHCHIQ QANOT",
+            "description": "Bizdagi yondiruvchi ziravorlar qo'shilgan qirsillama panirovkaga bulangan achchiqgina tovuq qanotlari – haqiqiy sevimli taom!",
+            "price": 50000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4492.jpg"
+        },
+        {
+            "name": "5 TA ACHCHIQ QANOT",
+            "description": "Bizdagi yondiruvchi ziravorlar qo'shilgan qirsillama panirovkaga bulangan achchiqgina tovuq qanotlari – haqiqiy sevimli taom!",
+            "price": 34000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4491.jpg"
+        },
+        {
+            "name": "3 TA ACHCHIQ QANOT",
+            "description": "Bizdagi yondiruvchi ziravorlar qo'shilgan qirsillama panirovkaga bulangan achchiqgina tovuq qanotlari – haqiqiy sevimli taom!",
+            "price": 21000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4490.jpg"
+        },
+        {
+            "name": "8 TA STRIPS ORIGINAL",
+            "description": "Yumshoq tovuq go'shtini polkovnik Sanders yaratgan noyob, qo'l mehnatiga asoslangan usul bilan, panirovkaga bulab, qovurib pishirilgan strips",
+            "price": 43000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4496.jpg"
+        },
+        {
+            "name": "8 TA ACHCHIQ STRIPS",
+            "description": "Yumshoq tovuq go'shtini polkovnik Sanders yaratgan noyob, qo'l mehnatiga asoslangan usul bilan, panirovkaga bulab, qovurib pishirilgan strips",
+            "price": 43000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4499.jpg"
+        },
+        {
+            "name": "5 TA STRIPS ORIGINAL",
+            "description": "Yumshoq tovuq go'shtini polkovnik Sanders yaratgan noyob, qo'l mehnatiga asoslangan usul bilan, panirovkaga bulab, qovurib pishirilgan strips",
+            "price": 29000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4497.jpg"
+        }
+    ],
+    "frenchFries": [
+        {
+            "name": "FRI M",
+            "description": "Biz kartoshka tilimchalarida siz yoqtirgan fri ta'mini yanada ko'proq saqlab qoldik. U siz yoqtirgandek – sirti qarsildoq, ichi yumshoq",
+            "price": 15000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4518.jpg"
+        },
+        {
+            "name": "FRI S",
+            "description": "Biz kartoshka tilimchalarida siz yoqtirgan fri ta'mini yanada ko'proq saqlab qoldik. U siz yoqtirgandek – sirti qarsildoq, ichi yumshoq",
+            "price": 10000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4517.jpg"
+        },
+        {
+            "name": "QISHLOQ RESEPTI BO'YICHA KARTOSHKA M",
+            "description": "Dona-dona va qarsilllab turadigan qishloq resepti bo'yicha tayyorlangan kartoshka - KFCda endi sevimli ta'm!",
+            "price": 16000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4521.jpg"
+        },
+        {
+            "name": "QISHLOQ RESEPTI BO'YICHA KARTOSHKA S",
+            "description": "Dona-dona va qarsilllab turadigan qishloq resepti bo'yicha tayyorlangan kartoshka - KFCda endi sevimli ta'm!",
+            "price": 11000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4520.jpg"
+        },
+        {
+            "name": "FRI BASKETI",
+            "description": "Biz kartoshka tilimchalarida siz yoqtirgan fri ta'mini yanada ko'proq saqlab qoldik. U siz yoqtirgandek – sirti qarsildoq, ichi yumshoq",
+            "price": 22000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4519.jpg"
+        },
+        {
+            "name": "SANDERS FRI KARTOSHKASI",
+            "description": "Sanders Fri kartoshkasi, bu — qovurilgan fri kartoshka bo'laklarining porsiyasi bo'lib, original sousdagi qovurilgan pishloq bo'laklari bilan birga keladi",
+            "price": 19000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5120.jpg"
+        },
+        {
+            "name": "XASHBRAUN",
+            "description": "Frityurda qizartirib pishirilgan kartoshka oladisi",
+            "price": 6000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4571.jpg"
+        },
+        {
+            "name": "BULOCHKA",
+            "description": "Bulochka",
+            "price": 5000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4526.jpg"
+        }
+    ],
+    "lunchBoxes": [
+        {
+            "name": "Lanchboks 30 000 sumga 5ta",
+            "description": "Mazali Twister Junior bilan 5 tasi 30 000 lik Lanchboks - tamaddi va tez tushlik qilib olish uchun ideal yechim Sevimli Twister Junior, Fri va Pepsi",
+            "price": 30000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5428.jpg"
+        },
+        {
+            "name": "Lanchboks 30 000 sumga 5ta",
+            "description": "Mazali Longer bilan 5 tasi 30 000 lik Lanchboks - tamaddi va tez tushlik qilib olish uchun ideal yechim Sevimli Longer, Fri va Pepsi",
+            "price": 30000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5427.jpg"
+        },
+        {
+            "name": "Lanchboks 35 000 sumga 5ta",
+            "description": "Mazali Chizburger bilan 5 tasi 35 000 lik Lanchboks - tamaddi va tez tushlik qilib olish uchun ideal yechim Sevimli Chizburger, Fri va Pepsi",
+            "price": 35000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5426.jpg"
+        },
+        {
+            "name": "Lanchboks 40 000 sumga 5ta",
+            "description": "Mazali Twister bilan 5 tasi 40 000 lik Lanchboks - tamaddi va tez tushlik qilib olish uchun ideal yechim Sevimli Twister, Fri va Pepsi",
+            "price": 40000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5425.jpg"
+        },
+        {
+            "name": "Lanchboks 45 000 sumga 5ta",
+            "description": "Mazali Boksmaster bilan 5 tasi 45 000 lik Lanchboks - tamaddi va tez tushlik qilib olish uchun ideal yechim Sevimli Boksmaster, Fri va Pepsi",
+            "price": 45000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5424.jpg"
+        },
+        {
+            "name": "KIDS BOX Longer 27.000",
+            "description": "Kids Box by KFC is a tasty and balanced lunch created especially for children. The set includes a Longer with chicken fillet, french fries, Pepsi drink and a toy",
+            "price": 27000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5514.jpg"
+        }
+    ],
+    "otherItems": [
+        {
+            "name": "BOKSMASTER ORIGINAL",
+            "description": "Original qirsillama panirovkada sarxil tovuq go'shti, pishloq bo'lakchasi, pomidor tilimchasi, salat bargi, xashbraun, mayonez va ketchup",
+            "price": 31000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4479.jpg"
+        },
+        {
+            "name": "BOKSMASTER ACHCHIQ",
+            "description": "O'tkir qirsillama panirovkada sarxil tovuq go'shti, pishloq bo'lakchasi, pomidor tilimchasi, salat bargi, xashbraun, mayonez va ketchup",
+            "price": 31000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4480.jpg"
+        },
+        {
+            "name": "TVISTER KEBAB ORIGINAL",
+            "description": "Fri kartoshkasi, salatning qarsildoq barglari, yangi tomatlar, tuzlangan bodiringlar, nozik piyoz va bir bo'lak pishloq bilan birga lavashga o'ralgan original panirovkadagi tovuq go'shti",
+            "price": 28000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5349.jpg"
+        },
+        {
+            "name": "TVISTER KEBAB ACHCHIQ",
+            "description": "Fri kartoshkasi, salatning qarsildoq barglari, yangi tomatlar, tuzlangan bodiringlar, nozik piyoz va bir bo'lak pishloq bilan birga lavashga o'ralgan original panirovkadagi tovuq go'shti",
+            "price": 28000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_5349.jpg"
+        },
+        {
+            "name": "TVISTER ACHCHIQ",
+            "description": "Achchiq panirovkada tovuq go'shti, salat bargi, pomidor bo'laklari, sous va bug'doy noni",
+            "price": 23000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4478.jpg"
+        },
+        {
+            "name": "TVISTER VEDJI",
+            "description": "Xashbraun kotletasi, pishloq bo'lakchasi, salat bargi, pomidor bo'laklari, mayin sous va bug'doy noni",
+            "price": 23000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4482.jpg"
+        },
+        {
+            "name": "TVISTER ORIGINAL",
+            "description": "Original panirovkada yumshoq tovuq go‘shti, salat bargi, pomidor bo‘laklari, sous va bug‘doy noni. ",
+            "price": 23000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4478.jpg"
+        },
+        {
+            "name": "TVISTER DJUNIOR",
+            "description": "Pishloqli kulcha, original panirovkada baytslar, xantal, ketchup, pishloq, marinadlangan bodringchalar va piyoz.",
+            "price": 23000,
+            "image": "https://kfc.com.uz/admin/files/medium/medium_4482.jpg"
+        }
+    ]
+}
