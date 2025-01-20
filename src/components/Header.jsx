@@ -11,12 +11,12 @@ import img8 from "../assets/shirinlik2.svg"
 const Header = () => {
     return (
         <div className='bace-container h-24'>
-            <div className='fixed flex justify-between w-[1400px] mx-auto border-b-2 bg-white pt-4'>
+            <div className='fixed flex justify-between w-[300px] xl:w-[1400px] border-none md:w-[800px] lg:w-[1140px] mx-auto lg:border-b-2 bg-white pt-4'>
                 <div className='text-4xl font-bold w-[100px] mx-auto xl:mx-0 h-[85px]'>
                     <Link to="/">Logo</Link>
                 </div>
                 <div>
-                    <ul className='sm:hidden xl:grid grid-cols-4 gap-5'>
+                    <ul className='hidden xl:grid grid-cols-4 gap-5'>
                         <Link
                             id='link'
                             className='color-red px-8 text-white text-xl rounded-full border-red hover-b flex gap-3 items-center'
@@ -52,7 +52,7 @@ const Header = () => {
                     </ul>
                 </div>
 
-                <div className="w-14 mr-4">
+                <div className="w-14 mr-4 hidden xl:block">
                     <select
                         className="block bg-black text-white w-full px-2 py-1 pb-2 border rounded-full shadow-md focus:outline-none focus:ring-blue-500"
                     >
